@@ -2,7 +2,7 @@
 
 This Java project is a small CLI interactive program that allows users for "Notown Records" to create various data types in the database instance according to the rules in the prompt. For the database in this project we used postgresql.
 
-To run the code you must first run project1.sql to create the schemas. You can also run project1_populate.sql to insert sample data into the database. You will also need to create the triggers using the trigger*.sql files.
+To run the code you must first run project1.sql to create the schemas. You can also run project1_populate.sql to insert sample data into the database. You will also need to create the triggers and functions using the trigger*.sql and function*.sql files.
 
 Once all of this is set up, replace the database URL, username, and password in Project1.java. Now you can compile and run your Java program.
 
